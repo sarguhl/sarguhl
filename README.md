@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm coding bots for Discord in Python mostly. Just hmu if you need something lol.
+🤔 General Overview:
+- I'm coding bots for Discord in Python mostly. Just hmu if you need something lol.
+
+😄 About me in detail:
+- Likes hiking
+- Likes music (Synthwave, mostly)
+- Likes coding, obviously
+- Likes nice people (who doesn't??)
+- Loves tea and coffee.
