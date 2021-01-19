@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - Likes coding, obviously
 - Likes nice people (who doesn't??)
 - Loves tea and coffee.
+
+🔭 About my current projects:
+There isn't much to say about :)
