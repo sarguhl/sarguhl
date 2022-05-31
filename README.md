@@ -1,7 +1,7 @@
 # Hey there, I'm Sarguhl - aka. Emil 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][https://youtube.com/sarguhl]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sarguhl.lol)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHd-twZ2ZiD4-FxB3Ok8T?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fsarguhl.lol)](https://sarguhl.lol)
 
 
 ## I'm a Student, Developer, and Musician!!
