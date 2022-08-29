@@ -1,7 +1,8 @@
 # Hey there, I'm Sarguhl - aka. Emil 👋 
 
-## I'm a Student, Developer, and Musician!!
+## I'm a student and young developer.
 
+- ⚒️ Working at GoodSigns as a software dev
 - 🌱 I’m currently enhancing my Python skills
 - 🥅 2022 Goals: Learn more about UI/UX
 - 🗓️ I made multiple internships at CaseKing
