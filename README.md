@@ -1,1 +1,1 @@
-I make computers do what I want. Most of the time. Okay, maybe not MOST of the time, but don't touch a running system.
+Mostly playing around with Python, SQL, and C#. I code little Discord bots and use coding to make my day-to-day life easier through automating repetitive tasks. You can find some of these projects here. However, most of them are outdated.
